@@ -98,7 +98,7 @@ matrix, min_edits = min_edit_distance('play', 'stay')
 # Example
 ```python
 # Define a misspelled word
-misspelled_word = "live"
+misspelled_word = "duck"
 
 # Get all possible corrections within two edits, allowing switches
 corrections = edit_two_letters(misspelled_word, allow_switches=True)
