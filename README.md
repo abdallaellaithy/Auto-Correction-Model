@@ -2,6 +2,10 @@
 
 This repository provides a suite of tools for developing and implementing an auto-correction model using a corpus of Shakespeare's works. It includes functions for processing text, calculating word frequencies, generating word probabilities, and suggesting corrections for misspelled words. The project utilizes various text manipulation techniques, such as deletion, replacement, insertion, and swapping of characters, to generate possible corrections. Additionally, it calculates the minimum edit distance between words to determine the most probable corrections. This repository is ideal for exploring and building text correction algorithms, offering a comprehensive approach to text analysis and error correction.
 
+<p align="center">
+  <img src="image/Image.png" alt="I Phone Auto Correction">
+</p>
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
